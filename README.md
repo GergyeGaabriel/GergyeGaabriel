@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá sou Gabriel Gergye 👋
 
 - 🌱 Atualmente estou aprendendo C e C# 
 - 📫 E-mail: gergyegabriel73@gmail.com 
@@ -17,5 +17,4 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" 
 </div>
