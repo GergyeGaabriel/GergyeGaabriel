@@ -1,6 +1,6 @@
 ### Olá sou Gabriel Gergye 👋
 
-- 🌱 Atualmente estou aprendendo C e C# 
+- 🌱 Atualmente estou aprendendo C# e Angular
 - 📫 E-mail: gergyegabriel73@gmail.com 
 - 😄 Pronomes: ele/dele
 
